@@ -1,0 +1,13 @@
+C:\Users\sang3\Downloads\quanLyNhaSach-BTCK-mmpakr\quanLyNhaSach-BTCK\ql_nhaSach\ql_nhaSach\obj\Debug\quanly.csproj.AssemblyReference.cache
+C:\Users\sang3\Downloads\quanLyNhaSach-BTCK-mmpakr\quanLyNhaSach-BTCK\ql_nhaSach\ql_nhaSach\obj\Debug\ql_nhaSach.exe
+C:\Users\sang3\Downloads\quanLyNhaSach-BTCK-mmpakr\quanLyNhaSach-BTCK\ql_nhaSach\ql_nhaSach\obj\Debug\ql_nhaSach.pdb
+C:\Users\sang3\Downloads\quanLyNhaSach-BTCK-mmpakr\quanLyNhaSach-BTCK\ql_nhaSach\ql_nhaSach\bin\Debug\ql_nhaSach.exe.config
+C:\Users\sang3\Downloads\quanLyNhaSach-BTCK-mmpakr\quanLyNhaSach-BTCK\ql_nhaSach\ql_nhaSach\bin\Debug\ql_nhaSach.exe
+C:\Users\sang3\Downloads\quanLyNhaSach-BTCK-mmpakr\quanLyNhaSach-BTCK\ql_nhaSach\ql_nhaSach\bin\Debug\ql_nhaSach.pdb
+C:\Users\sang3\Downloads\quanLyNhaSach-BTCK-mmpakr\quanLyNhaSach-BTCK\ql_nhaSach\ql_nhaSach\obj\Debug\ql_nhaSach.DangNhap.resources
+C:\Users\sang3\Downloads\quanLyNhaSach-BTCK-mmpakr\quanLyNhaSach-BTCK\ql_nhaSach\ql_nhaSach\obj\Debug\ql_nhaSach.form01_admin_02.resources
+C:\Users\sang3\Downloads\quanLyNhaSach-BTCK-mmpakr\quanLyNhaSach-BTCK\ql_nhaSach\ql_nhaSach\obj\Debug\ql_nhaSach.form03_nv_thuNgan.resources
+C:\Users\sang3\Downloads\quanLyNhaSach-BTCK-mmpakr\quanLyNhaSach-BTCK\ql_nhaSach\ql_nhaSach\obj\Debug\ql_nhaSach.Properties.Resources.resources
+C:\Users\sang3\Downloads\quanLyNhaSach-BTCK-mmpakr\quanLyNhaSach-BTCK\ql_nhaSach\ql_nhaSach\obj\Debug\ql_nhaSach.QuanLySach.resources
+C:\Users\sang3\Downloads\quanLyNhaSach-BTCK-mmpakr\quanLyNhaSach-BTCK\ql_nhaSach\ql_nhaSach\obj\Debug\quanly.csproj.GenerateResource.cache
+C:\Users\sang3\Downloads\quanLyNhaSach-BTCK-mmpakr\quanLyNhaSach-BTCK\ql_nhaSach\ql_nhaSach\obj\Debug\quanly.csproj.CoreCompileInputs.cache
